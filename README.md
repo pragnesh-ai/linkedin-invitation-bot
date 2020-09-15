@@ -18,6 +18,6 @@ Download Compiteble ChromeDriver
 https://chromedriver.chromium.org/downloads
 
 # Notice:
-Unlimited Scrolls untill Desire contacts number of contacts not done!
+Unlimited Scrolls untill Desire contact number of contacts(invitation) not done!
 
 Maximum number of contacts - 3000
